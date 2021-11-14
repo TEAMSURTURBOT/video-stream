@@ -80,6 +80,14 @@ async def start_(client: Client, message: Message):
                         "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ],
+                 [
+                    InlineKeyboardButton(
+                        "SUBSCRIBE 😜", url=f"https://youtube.com/channel/UCvDno5pioTuYi3IWBvm9b2w?sub_confirmation=1}"
+                    ),
+                    InlineKeyboardButton(
+                        " MONU MISHRA ", url=f"https://t.me/MONUMISHRA_XD}"
+                    ),
+                ],
                 [
                     InlineKeyboardButton(
                         "🌐 Source Code", url="https://telegra.ph/MONU-VIDEO-STREAMING-BOT-11-14"
