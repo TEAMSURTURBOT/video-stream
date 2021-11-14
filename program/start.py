@@ -82,10 +82,10 @@ async def start_(client: Client, message: Message):
                 ],
                  [
                     InlineKeyboardButton(
-                        "SUBSCRIBE 😜", url=f"https://youtube.com/channel/UCvDno5pioTuYi3IWBvm9b2w?sub_confirmation=1}"
+                        "SUBSCRIBE 😜", url=f"https://youtube.com/channel/UCvDno5pioTuYi3IWBvm9b2w?sub_confirmation=1"
                     ),
                     InlineKeyboardButton(
-                        " MONU MISHRA ", url=f"https://t.me/MONUMISHRA_XD}"
+                        " MONU MISHRA ", url=f"https://t.me/MONUMISHRA_XD"
                     ),
                 ],
                 [
